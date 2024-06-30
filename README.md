@@ -1,3 +1,4 @@
+![Screenshot (1363)](https://github.com/Arpita-Singh-bais/crud/assets/169032591/0b8ceb98-78d0-415f-8ac1-e1df1b90631c)
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
